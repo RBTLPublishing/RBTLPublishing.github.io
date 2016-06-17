@@ -25,18 +25,18 @@ img {
 }
 
 /** Navigation **/
-ul#list-nav {
+#list-nav {
 	list-style:none;
 	margin:20px;
 	padding:0;
 	width:525px
 }
 
-ul#list-nav li {
+#list-nav li {
 	display:inline
 }
 
-ul#list-nav li a {
+#list-nav li a {
 	text-decoration:none;
 	padding:5px 0;
 	width:100px;
@@ -47,11 +47,11 @@ ul#list-nav li a {
 	border-right:1px solid #000000;
 }
 
-ul#list-nav li.last a {
+#list-nav li.last a {
 	border: none;
 }
 
-ul#list-nav li a:hover {
+#list-nav li a:hover {
 	color:#DE2C82
 }
 
