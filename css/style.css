@@ -47,8 +47,8 @@ ul#list-nav li a {
 	border-right:1px solid #000000;
 }
 
-ul#list-nav li.last {
-	border:none;
+ul#list-nav li.last a {
+	border: none;
 }
 
 ul#list-nav li a:hover {
