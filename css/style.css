@@ -47,7 +47,7 @@ ul#list-nav li a {
 	border-right:1px solid #000000;
 }
 
-ul#list-nav li a.last {
+ul#list-nav li.last {
 	border:none;
 }
 
