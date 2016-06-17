@@ -44,7 +44,11 @@ ul#list-nav li a {
 	color:#6F2B8C;
 	float:left;
 	text-align:center;
-	border-left:1px solid #000000;
+	border-right:1px solid #000000;
+}
+
+ul#list-nav li a.last {
+	border:none;
 }
 
 ul#list-nav li a:hover {
